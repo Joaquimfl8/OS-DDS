@@ -1,5 +1,6 @@
 function mensagem() {
-  console.log("Sistema Iniciado");
+  console.log("Sistema iniciado");
+  console.log("Sistema finalizado!");
 }
 
 mensagem();
